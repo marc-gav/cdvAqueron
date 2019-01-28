@@ -1,0 +1,52 @@
+**/Tiled2Unity
+
+# =============== #
+# Unity generated #
+# =============== #
+#ProjectSettings/ProjectVersion.txt
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+Assets/AssetStoreTools*
+*.pidb.meta
+*.pdb.meta
+sysinfo.txt #crash reports
+
+# =============================================== #
+# Visual Studio / MonoDevelop / Consulo generated #
+# =============================================== #
+ExportedObj/
+obj/
+*.svd
+*.userprefs
+*.csproj
+*.pidb
+*.suo
+*.sln
+*.user
+*.unityproj
+*.booproj
+.consulo/
+*.tmp
+*.svd
+*.pdb
+
+# ============ #
+# OS generated #
+# ============ #
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+.vs/
+
+# ====== #
+# Builds #
+# ====== #
+*.apk
+*.unitypackage
