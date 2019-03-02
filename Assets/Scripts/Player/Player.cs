@@ -8,9 +8,14 @@ public class Player : MonoBehaviour {
     private Stats stats;
     private PlayerInputs inputs;
 
+    private void Start()
+    {
+        inputs = GetComponent<PlayerInputs>();
+        stats = GetComponent<Stats>();
+    }
     private void Update()
     {
-        if(CheckDeath())
+        if(!CheckDeath())
         {
             inputs.enabled = false;
         }
