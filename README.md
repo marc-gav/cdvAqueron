@@ -2,6 +2,8 @@
 
 Metroidvania game made with Unity. 
 
-#### Club del Videojuego(UPV)
+#### Club del Videojuego (UPV)
 
-https://generacionespontanea.upv.es/portfolio-items/club-del-videojuego-upv/
+https://menoyoamiandrea.wixsite.com/website/despertar-en-aqueron
+
+![alt text](Aqueron.png "Aqueron Art")
